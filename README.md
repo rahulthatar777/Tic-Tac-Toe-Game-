@@ -1,5 +1,7 @@
 # Tic Tac Toe Game
 
+Vercel Link: tic-tac-toe-game-eight-beryl.vercel.app
+
 ## Description
 A simple Tic Tac Toe game built using HTML, CSS, and JavaScript. This project allows two players to play Tic Tac Toe on a 3x3 grid. It automatically detects a win or a tie and offers to reset the game when it's over.
 
